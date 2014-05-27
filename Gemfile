@@ -33,6 +33,10 @@ group :doc do
 end
 
 
+# devise for user authentication
+gem 'devise'
+
+
 # file upload with paperclip
 # gem "paperclip", "~> 4.1"
 
